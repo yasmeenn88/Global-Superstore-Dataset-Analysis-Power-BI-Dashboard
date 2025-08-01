@@ -1,64 +1,64 @@
-# Global-Superstore-Dataset-Analysis-Power-BI-Dashboard-
-# 📊 Sales & Performance Dashboard - Power BI
+# Global Superstore Dashboard – Power BI Analysis
 
-This project is an interactive Power BI dashboard designed to visualize and analyze key business metrics including sales, profits, orders, and customer trends. The dashboard provides a comprehensive overview of performance by product category, segment, region, and time.
+### Sales & Performance Visualization
 
----
-
-## 📈 Key Features
-
-- **Total KPIs Overview**:
-  - 🧾 Total Sales
-  - 💰 Total Profit
-  - 📦 Total Orders
-  - 👥 Total Customers
-  - 🚚 Total Shipping Cost
-
-- **Visual Charts**:
-  - 📊 Bar Chart: Total Sales by Category
-  - 🍩 Donut Charts:
-    - Sales by Segment (Consumer, Corporate, Home Office)
-    - Sales by Category (Technology, Furniture, Office Supplies)
-  - 📉 Line Chart: Monthly Sales Trend
-  - 🌍 Market Table: Profit & Discount by Region
-  - 🛒 Top 5 Products by Sales (Horizontal Bar)
-  - 🗺️ Top 5 Countries by Sales (% Contribution Funnel Chart)
-  - 📅 Yearly Filter Slicer
+This project presents an interactive **Power BI dashboard** developed to visualize and analyze key performance metrics such as sales, profits, orders, and customer behavior. It provides a comprehensive business intelligence overview across products, segments, regions, and time periods.
 
 ---
 
-## 🛠️ Tools Used
+### Key Features
 
-- **Power BI Desktop**
-- **DAX & Power Query**
-- Custom themes and visual formatting
+- **KPI Summary Cards**  
+  - Total Sales  
+  - Total Profit  
+  - Total Orders  
+  - Total Customers  
+  - Total Shipping Cost
 
----
-
-## 📌 Purpose
-
-The dashboard was created to help businesses:
-- Track performance KPIs over time
-- Identify top-performing products and regions
-- Analyze customer and order trends
-- Optimize decision-making through interactive visuals
-
----
-
-
-
-## 🧠 Insights
-
-- Technology and Furniture are the leading sales categories.
-- The Home Office segment has the highest contribution to total sales.
-- United States is the top-performing country.
-- Sales decline trend is observed from December onwards.
+- **Visual Components**  
+  - **Bar Chart**: Total Sales by Category  
+  - **Donut Charts**:  
+    - Sales by Segment (Consumer, Corporate, Home Office)  
+    - Sales by Category (Technology, Furniture, Office Supplies)  
+  - **Line Chart**: Monthly Sales Trend  
+  - **Data Table**: Profit & Discount by Region  
+  - **Horizontal Bar Chart**: Top 5 Products by Sales  
+  - **Funnel Chart**: Top 5 Countries by Sales Contribution  
+  - **Year Slicer**: Filter data by year (2012–2015)
 
 ---
 
-## 🔒 Note
+### Tools & Technologies Used
 
-All data used is for demonstration purposes only and may not reflect actual business data.
+- **Microsoft Power BI Desktop**  
+- **DAX (Data Analysis Expressions)**  
+- **Power Query Editor**  
+- Custom themes and layout formatting
 
+---
 
+### Business Objectives
 
+This dashboard enables decision-makers to:
+
+- Monitor sales and profitability KPIs over time  
+- Identify best-selling products and high-performing regions  
+- Understand customer and order trends  
+- Support data-driven strategic planning
+
+---
+
+### Sample Dashboard
+
+![Global Superstore Power BI Dashboard](dashboard.jpg)
+
+---
+
+### Key Insights
+
+- **Top Categories**: Technology and Furniture lead in total sales.  
+- **Top Segment**: Home Office contributes the largest portion of sales (over 51%).  
+- **Top Country**: The United States dominates country-level sales contributions.  
+- **Trend**: A noticeable decline in sales begins after December.
+
+---
